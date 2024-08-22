@@ -35,6 +35,9 @@ TARGET_USE_PIXEL_CHARGER := true
 # Dolby
 Vendor_Dolby := true
 
+# Libperf
+TARGET_USES_LIBPERFMGR := true
+
 PRODUCT_NAME := lineage_stone
 PRODUCT_DEVICE := stone
 PRODUCT_MANUFACTURER := Xiaomi
