@@ -8,7 +8,7 @@ git clone https://github.com/Arijit78/device_xiaomi_stone-kernel.git -b 14 devic
 git clone https://github.com/Arijit78/vendor_dolby_oplus.git -b udc vendor/dolby
 
 # Clone hardware xiaomi
-git clone https://github.com/Evolution-X/hardware_xiaomi.git -b udc hardware/xiaomi
+git clone https://github.com/LineageOS/android_hardware_xiaomi.git -b lineage-21 hardware/xiaomi
 
 # Clone Kernel Source
 git clone https://github.com/Stone-Trees/kernel_xiaomi_sm6375.git -b 14 kernel/xiaomi/sm6375
