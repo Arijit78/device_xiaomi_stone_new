@@ -15,3 +15,7 @@ git clone https://github.com/Stone-Trees/kernel_xiaomi_sm6375.git -b 14 kernel/x
 
 # Clone v4a
 git clone --depth=1 https://github.com/TogoFire/packages_apps_ViPER4AndroidFX.git -b v4a packages/apps/ViPER4AndroidFX
+
+# Clone Qcom power
+rm -rf vendor/qcom/opensource/power
+git clone https://github.com/kamikaonashi/android_vendor_qcom_opensource_power.git -b lineage-21.0 vendor/qcom/opensource/power
