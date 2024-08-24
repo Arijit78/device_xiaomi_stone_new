@@ -232,7 +232,6 @@ renderthread.skia.reduceopstasksplitting=true
 # Graphics
 debug.egl.hw=0
 debug.mdpcomp.logs=0
-debug.hwui.use_hint_manager=true
 debug.hwui.target_cpu_time_percent=20
 debug.sf.disable_client_composition_cache=1
 debug.sf.enable_advanced_sf_phase_offset=1
