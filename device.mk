@@ -291,6 +291,7 @@ PRODUCT_VENDOR_KERNEL_HEADERS := device/xiaomi/stone-kernel/kernel-headers
 
 # Kernel
 PRODUCT_ENABLE_UFFD_GC := false
+PRODUCT_VENDOR_KERNEL_HEADERS := device/xiaomi/stone-kernel/kernel-headers
 
 # Keymaster
 PRODUCT_PACKAGES += \
