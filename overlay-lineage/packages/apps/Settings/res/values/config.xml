@@ -20,4 +20,10 @@
          3 = right side
     -->
     <integer name="config_fingerprintSensorLocation">3</integer>
+
+    <!-- Show battery Design Capacity -->
+    <bool name="config_show_battery_design_capacity">true</bool>
+
+    <!-- Show battery Maximum Capacity -->
+    <bool name="config_show_battery_maximum_capacity">true</bool>
 </resources>
